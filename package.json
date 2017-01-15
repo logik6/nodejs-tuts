@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-tuts",
+  "version": "1.0.0",
+  "description": "nodejs-tuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logik6/nodejs-tuts.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tuts"
+  ],
+  "author": "Sarath Dorbala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logik6/nodejs-tuts/issues"
+  },
+  "homepage": "https://github.com/logik6/nodejs-tuts#readme"
+}
